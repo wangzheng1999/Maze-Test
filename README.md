@@ -1,1 +1,1 @@
-# Maze-Test
+It's a simple procedure which is about a problem of maze which could be implemented as this:Giving you a maze,which contains several numbers such as "0" or "1",while "0" means "could go"but "1" means "not",you need to select a way from a start point to a end point which have been given at the begining.
